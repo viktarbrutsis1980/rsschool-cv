@@ -1,19 +1,19 @@
-#*Viktar Brutsis*
+# *Viktar Brutsis*
 ---
-###Education: *Belarusian State Economic University*
+### Education: *Belarusian State Economic University*
 ---
-##MY SKILLS
+## MY SKILLS
 - HTML
 - CSS
 - Javascript
 ---
-##My contacts
+## My contacts
 - email:
 - phone:
 - gitHub:
 ---
 ---
-###Code example
+### Code example
 ```
 function factorial(n) {
    let num = 1;
